@@ -1,4 +1,4 @@
-# Silencia 1.13.29 (FIX 82)
+# Silencia 1.13.29 
 
 **Windows desktop application for call-center agents — real-time AI noise suppression, transcription, and a fully local, document-grounded knowledge base with verified answers.**
 
